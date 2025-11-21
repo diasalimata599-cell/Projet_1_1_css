@@ -41,9 +41,9 @@ section{
 h1,h2,h3,p {
     text-align: center ;
 }
-.photo profil {
-    width: 200px;
-    height: 150px;
+.me {
+    width: 30px;
+    height: 30px;
     border border-radius: 10px;
     display: block;
     margin: 0 auto
